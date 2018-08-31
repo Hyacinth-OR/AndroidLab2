@@ -7,5 +7,10 @@
     android:padding="@dimen/activity_padding"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/navigate_button"
+        android:text="@string/button_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
